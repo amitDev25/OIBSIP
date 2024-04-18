@@ -8,7 +8,7 @@ const convertBtn=()=> {
     
 
 
-    if (unit == 'celcius'){
+    if (unit == 'celsius'){
         deg2 = (deg * 1.8) + 32;
         // console.log(deg2);
         result.innerHTML = `${deg2} °F`;
