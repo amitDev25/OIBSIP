@@ -96,3 +96,7 @@ form {
     border: 1px solid transparent;
     cursor: pointer;
 }
+#convert:hover{
+    background-color: #3449e3;
+
+}
